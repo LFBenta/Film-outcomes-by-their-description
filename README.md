@@ -1,2 +1,2 @@
-# NLPbaseFilmsOutcomeByDescription
+# Calculate film's outcome by it decription
 Not very good model + web server(streamlit) to calc outcome from films by their description
